@@ -7,5 +7,7 @@ public class HardwareMap {
     //Create motors
     public DcMotor leftFront  = null;
     public DcMotor rightFront = null;
-    
+    public DcMotor leftBack   = null;
+    public DcMotor rightBack  = null;
+
 }
