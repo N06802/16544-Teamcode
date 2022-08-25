@@ -18,9 +18,10 @@ dependencies {
     implementation 'org.firstinspires.ftc:Hardware:7.2.0'
     implementation 'org.firstinspires.ftc:FtcCommon:7.2.0'
     implementation 'org.tensorflow:tensorflow-lite-task-vision:0.2.0'
-    implementation 'androidx.appcompat:appcompat:1.5.0'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'org.firstinspires.ftc:gameAssets-FreightFrenzy:1.0.0'
 
-    implementation 'com.acmerobotics.roadrunner:core:0.5.1'
+    implementation 'com.acmerobotics.dashboard:dashboard:0.3.8'
+    implementation 'com.acmerobotics.roadrunner:core:0.5.5'
 }
 
